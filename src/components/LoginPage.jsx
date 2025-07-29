@@ -5,12 +5,10 @@ import NewsBanner from "../components/NewsBanner";
 import Footer from "../components/Footer";
 
 const backgrounds = [
-  "fondo1_login_ucc.jpg",
-  "fondo2_login_ucc.jpg",
-  "fondo3_login_ucc.jpg",
-  "fondo4_login_ucc.jpg",
-  "fondo5_login_ucc.jpg",
-  "fondo6_login_ucc.jpg",
+  "fondo1_login_ucc.jpeg",
+  "fondo2_login_ucc.jpeg",
+  "fondo3_login_ucc.jpeg",
+  "fondo4_login_ucc.jpeg",
 ];
 
 const LoginPage = () => {
