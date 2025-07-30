@@ -1,6 +1,6 @@
 {
   "name": "ucc-platform",
-  "version": "0.1.0",
+  "version": "5.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
@@ -9,12 +9,15 @@
     "@testing-library/user-event": "^13.5.0",
     "chart.js": "^4.5.0",
     "firebase": "^12.0.0",
+    "jquery": "^3.7.1",
+    "jquery-ui-dist": "^1.13.3",
     "postcss": "^8.4.31",
     "react": "^19.1.1",
     "react-chartjs-2": "^5.3.0",
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.7.1",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^0.0.0",
+    "resolve-url-loader": "^5.0.0",
     "svgo": "^2.8.0",
     "tailwindcss": "^4.1.11",
     "web-vitals": "^2.1.4",
@@ -43,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11"
   }
 }
